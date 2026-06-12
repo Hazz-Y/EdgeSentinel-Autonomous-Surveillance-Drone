@@ -1,0 +1,38 @@
+# ── Python ──────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ── Virtual environments ───────────────────────────
+venv/
+.venv/
+drone/
+env/
+
+# ── IDE / Editor ───────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ── OS ─────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+
+# ── Node (legacy TRL tooling) ─────────────────────
+node_modules/
+package-lock.json
+
+# ── Generated outputs ─────────────────────────────
+plots/
+*.docx
+
+# ── RealSense / temp ──────────────────────────────
+depth_latest.jpg

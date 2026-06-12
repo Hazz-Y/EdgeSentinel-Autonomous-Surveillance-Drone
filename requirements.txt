@@ -1,0 +1,6 @@
+dronekit>=2.9.2
+pymavlink>=2.4.41
+pyrealsense2>=2.55.1
+opencv-python>=4.9.0
+numpy>=1.24.0
+flask>=3.0.0
