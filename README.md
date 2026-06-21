@@ -721,14 +721,14 @@ Our flight demo validates the entire software loop in a single flight: autonomou
 <br>
 <a href="https://github.com/Hazz-Y">@Hazz-Y</a>
 <br>
-<em>Project Lead, Autopilot Integration & Flight State Machine</em>
+<em>Systems Architect, Computer Vision & YOLO Pipeline</em>
 </td>
 <td align="center" width="25%">
 <strong>Avishkar J.</strong>
 <br>
 <a href="https://github.com/Avishkar-byte">@Avishkar-byte</a>
 <br>
-<em>Systems Architect, Computer Vision & YOLO Pipeline</em>
+<em>Autopilot Integration & Flight State Machine</em>
 </td>
 <td align="center" width="25%">
 <strong>Omkar P.</strong>
@@ -778,9 +778,5 @@ VIT Chennai TECHgium.
 <br>
 
 *Built with ❤️ for autonomous robotics and edge AI*
-
-<br>
-
-**[📖 Full Project Write-Up on ElectronicWings →](https://www.electronicwings.com/users/AvishkarJaiswal/projects/6632/edgesentinel---autonomous-drone-platform-with-on-device-depth-based-obstacle-avoidance-and-real-time-surveillance)**
 
 </div>
